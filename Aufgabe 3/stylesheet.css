@@ -11,8 +11,11 @@ article {background-color: #eeeeee;
 img {}
 
 p {font-family: Arial, Helvetica, sans-serif;
-    font-size: 2px;
+    font-size: 2em;
     color: #444444;
+    text-align: center}
+
+a {font-size: 2em;
     text-align: center}
 
 /* Spezielle Hintergrundfarben der Sections */
