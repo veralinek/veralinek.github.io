@@ -8,7 +8,10 @@ section {width: 90%;
 
 article {background-color: #eeeeee;
         width: 85%;}
-img {}
+img {width: 400px;
+     height: 300px;
+    border: #444444;
+    border-radius: 20%}
 
 p {font-family: Arial, Helvetica, sans-serif;
     font-size: 2em;
