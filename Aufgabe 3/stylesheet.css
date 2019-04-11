@@ -1,16 +1,21 @@
 /* Stylesheet */
 
 body {background-color:#ffe6e6;
-        text-align: center;
-        font-family: Arial, Helvetica, sans-serif;}
 
-section {width: 90%}
+section {width: 90%;
+}
 
 article {background-color: #eeeeee;
         width: 85%;}
 img {}
 
+p {font-family: Arial, Helvetica, sans-serif;
+    font-size: 2px;
+    color: #444444;
+    text-align: center}
+
 /* Spezielle Hintergrundfarben der Sections */
+
 #sectionerdbeere {background-color: #ffccbb}
 #sectionbanane {background-color: #ffffbb}
 #sectionapfel {background-color: #ffd6bb}
