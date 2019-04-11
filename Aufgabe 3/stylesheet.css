@@ -14,12 +14,10 @@ img {width: 400px;
     border-radius: 20%}
 
 p {font-family: Arial, Helvetica, sans-serif;
-    font-size: 2em;
+    font-size: 1em;
     color: #444444;
     text-align: center}
 
-a {font-size: 2em;
-    text-align: center}
 
 /* Spezielle Hintergrundfarben der Sections */
 
