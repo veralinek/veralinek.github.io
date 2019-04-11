@@ -1,0 +1,12 @@
+/* Stylesheet */
+
+body {background-color:#ffe6e6}
+section {width: 90%}
+article {background-color: #eeeeee;
+        width: 85%}
+img {}
+
+/* Spezielle Hintergrundfarben der Sections */
+#sectionerdbeere {background-color: #ffccbb}
+#sectionbanane {background-color: #ffffbb}
+#sectionapfel {background-color: #ffd6bb}
